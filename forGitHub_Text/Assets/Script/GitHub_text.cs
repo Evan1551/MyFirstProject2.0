@@ -12,7 +12,7 @@ public class GitHub_text : MonoBehaviour
     {
         //////////////////////////
         //用于测试修改的代码，原来是x就改为y，原来是y就改为x
-        Debug.Log("这次修改是为了测试代码冲突");
+        Debug.Log(x);
 
         //////////////////////////
     }
