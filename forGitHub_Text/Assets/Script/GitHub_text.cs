@@ -13,6 +13,7 @@ public class GitHub_text : MonoBehaviour
         //////////////////////////
         //用于测试修改的代码，原来是x就改为y，原来是y就改为x
         Debug.Log(x);
+        Debug.Log("这是21：11修改的代码");
 
         //////////////////////////
     }
